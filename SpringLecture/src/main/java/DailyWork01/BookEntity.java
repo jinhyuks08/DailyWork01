@@ -50,5 +50,5 @@ public class BookEntity {
 	public void setBauthor(String bauthor) {
 		this.bauthor = bauthor;
 	}
-
+ 
 }
